@@ -24,7 +24,7 @@ b站弹幕测试
 ## Demo
 **在参数设置好的前提下**
 
-```
+```python
 if __name__ == '__main__':
     for play_time in range(0, 250):
         index = 0
