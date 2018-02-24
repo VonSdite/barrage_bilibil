@@ -23,7 +23,7 @@ csrf = 'your_csrf'
 # mark1: 当你每隔5s（隔10+s和5s是一样的）发一条弹幕达15条之后，b站需要你等待300s
 # mark2: 当出现mark1时， 你手动再去b站发一条弹幕，b站会给你重新分配一个cookie
 # mark3: 新的cookie的包里的rnd是变了的，但却还能成功发弹幕， 神奇
-# mark4: b站cookie时效大概一小时或者半小时
+# mark4: b站cookie时效可能是一天或者半天
 cookie = ['cookie1', 'cookie2', 'cookie3']
 
 
